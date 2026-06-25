@@ -1,2 +1,1 @@
-# sides
-Hidup serba template
+Ya sudah. Kamu tidur saja

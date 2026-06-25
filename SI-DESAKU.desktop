@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=SI-DESAKU
+Comment=Aplikasi Sistem Desa
+Exec=/home/jyant/Desktop/Desaku/venv/bin/python /home/jyant/Desktop/Desaku/app.py
+Icon=utilities-terminal
+Terminal=false
+Type=Application
+Categories=Utility;Application;
+Path=/home/jyant/Desktop/Desaku

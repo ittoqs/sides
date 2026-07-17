@@ -1,0 +1,28 @@
+{
+  "instansi": {
+    "desa": "Kampokku Jaya",
+    "kecamatan": "Pakkampong",
+    "kabupaten": "Limpo",
+    "provinsi": "Limpo Toddang",
+    "alamat": "Jl. Raya Kampong No. 01, Desa Kampokku Jaya",
+    "telepon": "(0123) 456789"
+  },
+  "penomoran": {
+    "format": "470/{{NOMOR}}/DS/{{TAHUN}}",
+    "counter": 1
+  },
+  "penandatangan": {
+    "nama": "H. Baco Tang, S.IP",
+    "nip": "",
+    "jabatan": "Kepala Desa"
+  },
+  "penyimpanan": {
+    "folder_docx": "output/docx",
+    "folder_pdf": "output/pdf"
+  },
+  "printer": {
+    "default": ""
+  },
+  "user_aktif": "admin",
+  "user_role": "Admin"
+}
